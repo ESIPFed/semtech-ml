@@ -1,8 +1,6 @@
 # semtech-ml
 A curated list of resources (papers, notebooks, software, datasets, etc.) highlighting use cases and people at the intersection of semantic technologies and machine learning. Contributions most welcome.
 
-# What's Being Done Now?
-
 ## Knowledge Graphs in Explainable AI
 
 [DARPA Explainable AI Summary](https://www.cc.gatech.edu/~alanwags/DLAI2016/(Gunning)%20IJCAI-16%20DLAI%20WS.pdf)
